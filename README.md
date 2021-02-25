@@ -23,6 +23,7 @@ Inhalte aus dem TextGrid Repository können direkt dem Language Resource Switchb
 
 
 Nach der Übergabe zeigt das Switchboard an, welche Werkzeuge für die übergebenen Daten für die Weiterverarbeitung zur Verfügung stehen. Die Auswahl der Werkzeuge hängt vom Dateityp und der Sprache ab. Beides wird automatisch geprüft und in den Feldern "Mediatype" bzw. "Language" angezeigt. Sollte die Automatik zu einem falschen Ergebnis gelangen, können beide Werte von Hand geändert werden.
+
 ![lrs tools für upload aus TextGrid-Repository](img/lrs_2d2_from_textgrid_tools.png)
 
 *Bild 4: Zur Verfügung stehende Tools für die hochgeladene Datei aus dem TextGrid-Repository*
@@ -30,11 +31,13 @@ Nach der Übergabe zeigt das Switchboard an, welche Werkzeuge für die übergebe
 
 #### **Virtual Language Observatory (VLO)**
 Inhalte aus dem VLO können direkt dem Switchboard übergeben werden, was hier am Beispiel von "Paradise Regain'd" gezeigt wird. 
+
 ![lrs upload vom VLO](img/lrs_2e1_vlo_result.png)
 *Bild 5: Upload aus dem VLO*
 
 
 Nach einem Klick auf den Titel werden die Details zur Ressource angezeigt. Der Link zum VLO wird erst sichtbar, wenn man mit dem Cursor über die drei Punkte nach der Angabe des Dateiformats fährt.
+
 ![lrs upload vom VLO](img/lrs_2e2a_vlo_link_xml_to_lrs.png)
 *Bild 6: Übergabe einer Ressource an das Switchboard aus dem VLO*
 
